@@ -1,3 +1,5 @@
+> **📅 Project Period:** Jan 2025 – Feb 2025 &nbsp;|&nbsp; **Status:** Completed &nbsp;|&nbsp; **Author:** [Bharghava Ram Vemuri](https://github.com/bharghavaram)
+
 # LLM Fine-Tuning Platform
 
 > Production-grade PEFT/LoRA fine-tuning pipeline with QLoRA (4-bit) support and MLflow tracking
