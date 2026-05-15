@@ -16,7 +16,11 @@
 
 ---
 
-## 🎯 Problem Statement
+<div align="center">
+  <img src="https://raw.githubusercontent.com/bharghavaram/llm-finetuning-platform/main/docs/images/demo.svg" alt="llm-finetuning-platform demo" width="820"/>
+</div>
+
+--- 🎯 Problem Statement
 
 Fine-tuning LLMs requires PhD-level ML knowledge, expensive A100 GPUs, and weeks of engineering. QLoRA reduces GPU memory by 75% but configuring it correctly requires deep expertise in quantisation, adapter ranks, learning rate schedules, and evaluation. MLflow integration for experiment tracking is another specialist skill. This platform abstracts all complexity into a REST API — submit your dataset, choose your model, and receive a fine-tuned adapter ready for inference.
 
